@@ -15,6 +15,62 @@
       "genre": ["боевик"],
       "runtime": 141,
       "poster": "https://gidonline.io/img/15e4772b1_200x300.jpg"
+    },
+    {
+      "name": "Джон Уик 4",
+      "year": 2023,
+      "country": "Германия, США",
+      "genre": ["боевик", "криминал", "триллер"],
+      "runtime": 169,
+      "poster": "https://gidonline.io/img/6e20de286_200x300.jpg"
+    },
+    {
+      "name": "Оборотень",
+      "year": 2011,
+      "country": "США",
+      "genre": ["драма", "сериал", "ужасы"],
+      "runtime": 41,
+      "poster": "https://gidonline.io/img/8eeee9437_200x300.jpg"
+    },
+    {
+      "name": "Сверхъестественное",
+      "year": 2005,
+      "country": "США",
+      "genre": ["детектив", "сериал", "триллер", "ужасы"],
+      "runtime": 42,
+      "poster": "https://gidonline.io/img/894d23844_200x300.jpg"
+    },
+    {
+      "name": "Доспехи Бога",
+      "year": 1986,
+      "country": "Гонконг",
+      "genre": ["боевик", "комедия", "приключения"],
+      "runtime": 88,
+      "poster": "https://gidonline.io/img/e8ae5f2c9_200x300.jpg"
+    },
+    {
+      "name": "911 служба спасения",
+      "year": 2018,
+      "country": "США",
+      "genre": ["драма", "сериал", "триллер"],
+      "runtime": 43,
+      "poster": "https://gidonline.io/img/f48da2cf8_200x300.jpg"
+    },
+    {
+      "name": "Красное уведомление",
+      "year": 2021,
+      "country": "США",
+      "genre": ["боевик", "комедия", "криминал"],
+      "runtime": 115,
+      "poster": "https://gidonline.io/img/f2fe73a7d_200x300.jpg"
+    },
+    {
+      "name": "Человек-паук: Нет пути домой",
+      "year": 2021,
+      "country": "США",
+      "genre": ["боевик", "приключения", "фэнтези"],
+      "runtime": 148,
+      "poster": "https://gidonline.io/img/81f2c04fa_200x300.jpg"
     }
   ]
 }
