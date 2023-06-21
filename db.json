@@ -1,0 +1,20 @@
+{
+  "movies": [
+    {
+      "name": "Игра престолов",
+      "year": 2011,
+      "country": "США",
+      "genre": ["драма", "сериал", "фэнтези"],
+      "runtime": 60,
+      "poster": "https://gidonline.io/img/5a6177960_200x300.jpg"
+    },
+    {
+      "name": "Форсаж 10",
+      "year": 2023,
+      "country": "Китай, США",
+      "genre": ["боевик"],
+      "runtime": 141,
+      "poster": "https://gidonline.io/img/15e4772b1_200x300.jpg"
+    }
+  ]
+}
