@@ -71,6 +71,38 @@
       "genre": ["боевик", "приключения", "фэнтези"],
       "runtime": 148,
       "poster": "https://gidonline.io/img/81f2c04fa_200x300.jpg"
+    },
+    {
+      "name": "Лулу и Бриггс",
+      "year": 2022,
+      "country": "США",
+      "genre": ["драма", "комедия", "приключения"],
+      "runtime": 101,
+      "poster": "https://gidonline.io/img/8a131b4b8_200x300.jpg"
+    },
+    {
+      "name": "Интерстеллар",
+      "year": 2014,
+      "country": "Великобритания, США",
+      "genre": ["драма", "приключения", "фантастика"],
+      "runtime": 169,
+      "poster": "https://gidonline.io/img/7805537c0_200x300.jpg"
+    },
+    {
+      "name": "Под наблюдением",
+      "year": 2022,
+      "country": "США",
+      "genre": ["боевик"],
+      "runtime": 96,
+      "poster": "https://gidonline.io/img/930ff9c5c_200x300.jpg"
+    },
+    {
+      "name": "Доктор Хаус",
+      "year": 2004,
+      "country": "США",
+      "genre": ["детектив", "драма", "сериал"],
+      "runtime": 43,
+      "poster": "https://gidonline.io/img/76317fd4d_200x300.jpg"
     }
   ]
 }
