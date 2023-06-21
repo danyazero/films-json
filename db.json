@@ -1,6 +1,7 @@
 {
   "movies": [
     {
+      "id": 0,
       "name": "Игра престолов",
       "year": 2011,
       "country": "США",
@@ -9,6 +10,7 @@
       "poster": "https://gidonline.io/img/5a6177960_200x300.jpg"
     },
     {
+      "id": 1,
       "name": "Форсаж 10",
       "year": 2023,
       "country": "Китай, США",
@@ -17,6 +19,7 @@
       "poster": "https://gidonline.io/img/15e4772b1_200x300.jpg"
     },
     {
+      "id": 2,
       "name": "Джон Уик 4",
       "year": 2023,
       "country": "Германия, США",
@@ -25,6 +28,7 @@
       "poster": "https://gidonline.io/img/6e20de286_200x300.jpg"
     },
     {
+      "id": 3,
       "name": "Оборотень",
       "year": 2011,
       "country": "США",
@@ -33,6 +37,7 @@
       "poster": "https://gidonline.io/img/8eeee9437_200x300.jpg"
     },
     {
+      "id": 4,
       "name": "Сверхъестественное",
       "year": 2005,
       "country": "США",
@@ -41,6 +46,7 @@
       "poster": "https://gidonline.io/img/894d23844_200x300.jpg"
     },
     {
+      "id": 5,
       "name": "Доспехи Бога",
       "year": 1986,
       "country": "Гонконг",
@@ -49,6 +55,7 @@
       "poster": "https://gidonline.io/img/e8ae5f2c9_200x300.jpg"
     },
     {
+      "id": 6,
       "name": "911 служба спасения",
       "year": 2018,
       "country": "США",
@@ -57,6 +64,7 @@
       "poster": "https://gidonline.io/img/f48da2cf8_200x300.jpg"
     },
     {
+      "id": 7,
       "name": "Красное уведомление",
       "year": 2021,
       "country": "США",
@@ -65,6 +73,7 @@
       "poster": "https://gidonline.io/img/f2fe73a7d_200x300.jpg"
     },
     {
+      "id": 8,
       "name": "Человек-паук: Нет пути домой",
       "year": 2021,
       "country": "США",
@@ -73,6 +82,7 @@
       "poster": "https://gidonline.io/img/81f2c04fa_200x300.jpg"
     },
     {
+      "id": 9,
       "name": "Лулу и Бриггс",
       "year": 2022,
       "country": "США",
@@ -81,6 +91,7 @@
       "poster": "https://gidonline.io/img/8a131b4b8_200x300.jpg"
     },
     {
+      "id": 10,
       "name": "Интерстеллар",
       "year": 2014,
       "country": "Великобритания, США",
@@ -89,6 +100,7 @@
       "poster": "https://gidonline.io/img/7805537c0_200x300.jpg"
     },
     {
+      "id": 11,
       "name": "Под наблюдением",
       "year": 2022,
       "country": "США",
@@ -97,6 +109,7 @@
       "poster": "https://gidonline.io/img/930ff9c5c_200x300.jpg"
     },
     {
+      "id": 12,
       "name": "Доктор Хаус",
       "year": 2004,
       "country": "США",
