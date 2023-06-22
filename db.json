@@ -8,7 +8,7 @@
       "country": "USA",
       "genre": ["drama", "series", "fantasy"],
       "runtime": 60,
-      "trailer": "https://youtu.be/KPLWWIOCOOQ",
+      "trailer": "https://www.youtube.com/embed/KPLWWIOCOOQ",
       "poster": "https://gidonline.io/img/5a6177960_200x300.jpg"
     },
     {
@@ -19,7 +19,7 @@
       "country": "China, USA",
       "genre": ["thriller"],
       "runtime": 141,
-      "trailer": "https://youtu.be/eoOaKN4qCKw",
+      "trailer": "https://www.youtube.com/embed/eoOaKN4qCKw",
       "poster": "https://gidonline.io/img/15e4772b1_200x300.jpg"
     },
     {
@@ -30,7 +30,7 @@
       "country": "Germany, USA",
       "genre": ["thriller", "crime"],
       "runtime": 169,
-      "trailer": "https://youtu.be/qEVUtrk8_B4",
+      "trailer": "https://www.youtube.com/embed/qEVUtrk8_B4",
       "poster": "https://gidonline.io/img/6e20de286_200x300.jpg"
     },
     {
@@ -41,7 +41,7 @@
       "country": "USA",
       "genre": ["drama", "series", "horror"],
       "runtime": 41,
-      "trailer": "https://youtu.be/1y3rflTTjeI",
+      "trailer": "https://www.youtube.com/embed/1y3rflTTjeI",
       "poster": "https://gidonline.io/img/8eeee9437_200x300.jpg"
     },
     {
@@ -52,7 +52,7 @@
       "country": "USA",
       "genre": ["detective", "series", "триллер", "horror"],
       "runtime": 42,
-      "trailer": "https://youtu.be/_hlkNQL5Ecg",
+      "trailer": "https://www.youtube.com/embed/_hlkNQL5Ecg",
       "poster": "https://gidonline.io/img/894d23844_200x300.jpg"
     },
     {
@@ -63,7 +63,7 @@
       "country": "Hong Kong",
       "genre": ["thriller", "comedy", "adventures"],
       "runtime": 88,
-      "trailer": "https://youtu.be/eAD4HQ8Su9s",
+      "trailer": "https://www.youtube.com/embed/eAD4HQ8Su9s",
       "poster": "https://gidonline.io/img/e8ae5f2c9_200x300.jpg"
     },
     {
@@ -74,7 +74,7 @@
       "country": "USA",
       "genre": ["drama", "series", "thriller"],
       "runtime": 43,
-      "trailer": "https://youtu.be/sI_M0OhCqhQ",
+      "trailer": "https://www.youtube.com/embed/sI_M0OhCqhQ",
       "poster": "https://gidonline.io/img/f48da2cf8_200x300.jpg"
     },
     {
@@ -85,7 +85,7 @@
       "country": "USA",
       "genre": ["thriller", "comedy", "crime"],
       "runtime": 115,
-      "trailer": "https://youtu.be/Pj0wz7zu3Ms",
+      "trailer": "https://www.youtube.com/embed/Pj0wz7zu3Ms",
       "poster": "https://gidonline.io/img/f2fe73a7d_200x300.jpg"
     },
     {
@@ -96,7 +96,7 @@
       "country": "USA",
       "genre": ["thriller", "adventures", "fantasy"],
       "runtime": 148,
-      "trailer": "https://youtu.be/JfVOs4VSpmA",
+      "trailer": "https://www.youtube.com/embed/JfVOs4VSpmA",
       "poster": "https://gidonline.io/img/81f2c04fa_200x300.jpg"
     },
     {
@@ -107,7 +107,7 @@
       "country": "USA",
       "genre": ["drama", "comedy", "adventures"],
       "runtime": 101,
-      "trailer": "https://youtu.be/V4tAtp-TyzQ",
+      "trailer": "https://www.youtube.com/embed/V4tAtp-TyzQ",
       "poster": "https://gidonline.io/img/8a131b4b8_200x300.jpg"
     },
     {
@@ -118,7 +118,7 @@
       "country": "UK, USA",
       "genre": ["drama", "adventures", "fantasy"],
       "runtime": 169,
-      "trailer": "https://youtu.be/zSWdZVtXT7E",
+      "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E",
       "poster": "https://gidonline.io/img/7805537c0_200x300.jpg"
     },
     {
@@ -129,7 +129,7 @@
       "country": "USA",
       "genre": ["thriller"],
       "runtime": 96,
-      "trailer": "https://youtu.be/dJtTvg0X5k8",
+      "trailer": "https://www.youtube.com/embed/dJtTvg0X5k8",
       "poster": "https://gidonline.io/img/930ff9c5c_200x300.jpg"
     },
     {
@@ -140,7 +140,7 @@
       "country": "USA",
       "genre": ["detective", "drama", "series"],
       "runtime": 43,
-      "trailer": "https://youtu.be/_0mYMuGrDxw",
+      "trailer": "https://www.youtube.com/embed/_0mYMuGrDxw",
       "poster": "https://gidonline.io/img/76317fd4d_200x300.jpg"
     }
   ]
