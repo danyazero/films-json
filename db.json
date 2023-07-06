@@ -1,4 +1,151 @@
 {
+  "news": [
+    {
+      "id": 1,
+      "name": "SAG-AFTRA and Studios to Extend Talks to July 12",
+      "preview": "http://192.168.0.229:3303/assets/news/sag-aftra-and-studios.png",
+      "date": "7/1/2023",
+      "text": "SAG-AFTRA and the studios will keep talking beyond the midnight Friday contract deadline, as they remain at odds on issues like streaming residuals and artificial intelligence.\n\nThe union has agreed to extend the contract to July 12. The Alliance of Motion Picture and Television Producers and SAG-AFTRA made the announcement in a joint statement just before 7 p.m. Friday.\n\nIn a message to its membership, SAG-AFTRA said the leadership had decided unanimously to extend the contract “in order to exhaust every opportunity to achieve the righteous contract we all demand and deserve.”\n\n“No one should mistake this extension for weakness,” the union leaders said."
+    }
+  ],
+  "comments": [
+    {
+      "movie": 0,
+      "id": 1,
+      "username": "lord017",
+      "text": "The series is just fire all advise to watch.Just do not forget one thing do not watch no spoilers do not read do not listen",
+      "likes": 3,
+      "dislikes": 1
+    },
+    {
+      "movie": 0,
+      "id": 2,
+      "username": "vasco",
+      "text": "An addictive series",
+      "likes": 2,
+      "dislikes": 1
+    },
+    {
+      "movie": 0,
+      "id": 3,
+      "username": "BruceBener",
+      "text": "The best thing I've watched, and I've watched a lot of different things!!! Even bought books, very interesting...",
+      "likes": 6,
+      "dislikes": 2
+    },
+    {
+      "movie": 1,
+      "id": 1,
+      "username": "cj-ax",
+      "text": "Jason Mamoa made everyone in this movie, in terms of acting. Why didn't they make this movie, right after part 7? It's a mystery.",
+      "likes": 3,
+      "dislikes": 1
+    },
+    {
+      "movie": 1,
+      "id": 2,
+      "username": "madDog",
+      "text": "the movie is the bomb! waiting for the sequel 8/10",
+      "likes": 3,
+      "dislikes": 1
+    },
+    {
+      "movie": 1,
+      "id": 3,
+      "username": "arlen2003",
+      "text": "Boring...",
+      "likes": 3,
+      "dislikes": 1
+    },
+    {
+      "movie": 2,
+      "id": 1,
+      "username": "fatonka",
+      "text": "Scott Adkins pulled this movie off, without the club part of the movie, the movie would have been pretty trite and passable.",
+      "likes": 3,
+      "dislikes": 1
+    },
+    {
+      "movie": 2,
+      "id": 2,
+      "username": "Elnur_m_m",
+      "text": "It was a waste of time...",
+      "likes": 3,
+      "dislikes": 1
+    },
+    {
+      "movie": 2,
+      "id": 3,
+      "username": "dr_brains",
+      "text": "Turned it off after 20 minutes",
+      "likes": 3,
+      "dislikes": 1
+    },
+    {
+      "movie": 0,
+      "id": 4,
+      "username": "danyazero",
+      "text": "Amazing series! Im recommend!",
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "movie": 0,
+      "username": "danyazero",
+      "text": "Amazing series!!!!!",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 5
+    },
+    {
+      "movie": 1,
+      "username": "danyazero",
+      "text": "I don't recommend watching...",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 6
+    },
+    {
+      "movie": 3,
+      "username": "danyazero",
+      "text": "I wish I could forget it so I could watch it again.",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 7
+    },
+    {
+      "movie": 7,
+      "username": "danyazero",
+      "text": "shit",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 8
+    },
+    {
+      "movie": 4,
+      "username": "danyazero",
+      "text": "Mine favorite series!)",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 9
+    },
+    {
+      "movie": 18,
+      "username": "danyazero",
+      "text": "Legendary movie!",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 10
+    },
+    {
+      "movie": 8,
+      "username": "danyazero",
+      "text": "Bot bad.",
+      "likes": 0,
+      "dislikes": 0,
+      "id": 11
+    }
+  ],
   "movies": [
     {
       "id": 0,
@@ -6,23 +153,31 @@
       "year": 2011,
       "rating": 9.2,
       "country": "USA",
-      "genre": ["drama", "series", "fantasy"],
+      "genre": [
+        "drama",
+        "series",
+        "fantasy"
+      ],
       "runtime": 60,
       "caption": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
       "trailer": "https://www.youtube.com/embed/KPLWWIOCOOQ",
-      "poster": "https://gidonline.io/img/5a6177960_200x300.jpg"
+      "poster": "http://192.168.0.229:3303/assets/posters/large/game-of-thrones.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/game-of-thrones.jpg"
     },
     {
       "id": 1,
       "name": "Fast 10",
       "year": 2023,
-      "rating": 6.0,
+      "rating": 6,
       "country": "China, USA",
-      "genre": ["thriller"],
+      "genre": [
+        "thriller"
+      ],
       "runtime": 141,
       "caption": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
       "trailer": "https://www.youtube.com/embed/eoOaKN4qCKw",
-      "poster": "https://gidonline.io/img/15e4772b1_200x300.jpg"
+      "poster": "http://192.168.0.229:3303/assets/posters/large/fast-10.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/fast-10.jpg"
     },
     {
       "id": 2,
@@ -30,11 +185,15 @@
       "year": 2023,
       "rating": 7.9,
       "country": "Germany, USA",
-      "genre": ["thriller", "crime"],
+      "genre": [
+        "thriller",
+        "crime"
+      ],
       "runtime": 169,
       "caption": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
       "trailer": "https://www.youtube.com/embed/qEVUtrk8_B4",
-      "poster": "https://gidonline.io/img/6e20de286_200x300.jpg"
+      "poster": "http://192.168.0.229:3303/assets/posters/large/jhon-wick-4.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/jhon-wick-4.jpg"
     },
     {
       "id": 3,
@@ -42,11 +201,16 @@
       "year": 2011,
       "rating": 7.7,
       "country": "USA",
-      "genre": ["drama", "series", "horror"],
+      "genre": [
+        "drama",
+        "series",
+        "horror"
+      ],
       "runtime": 41,
       "caption": "An average high school student and his best friend get caught up in some trouble causing him to receive a werewolf bite. As a result they find themselves in the middle of all sorts of dramas in Beacon Hills.",
       "trailer": "https://www.youtube.com/embed/1y3rflTTjeI",
-      "poster": "https://gidonline.io/img/8eeee9437_200x300.jpg"
+      "poster": "http://192.168.0.229:3303/assets/posters/large/teen-wolf.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/teen-wolf.jpg"
     },
     {
       "id": 4,
@@ -54,11 +218,17 @@
       "year": 2005,
       "rating": 8.4,
       "country": "USA",
-      "genre": ["detective", "series", "триллер", "horror"],
+      "genre": [
+        "detective",
+        "series",
+        "триллер",
+        "horror"
+      ],
       "runtime": 42,
       "caption": "Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.",
       "trailer": "https://www.youtube.com/embed/_hlkNQL5Ecg",
-      "poster": "https://gidonline.io/img/894d23844_200x300.jpg"
+      "poster": "http://192.168.0.229:3303/assets/posters/large/supernatural.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/supernatural.jpg"
     },
     {
       "id": 5,
@@ -66,11 +236,16 @@
       "year": 1986,
       "rating": 6.9,
       "country": "Hong Kong",
-      "genre": ["thriller", "comedy", "adventures"],
+      "genre": [
+        "thriller",
+        "comedy",
+        "adventures"
+      ],
       "runtime": 88,
       "caption": "Asian Hawk (Jackie Chan) and his bumbling sidekick are sent on a quest through Europe to find a mysterious treasure held by a shadowy organization of monks.",
       "trailer": "https://www.youtube.com/embed/eAD4HQ8Su9s",
-      "poster": "https://gidonline.io/img/e8ae5f2c9_200x300.jpg"
+      "poster": "http://192.168.0.229:3303/assets/posters/large/armour-of-god.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/armour-of-god.jpg"
     },
     {
       "id": 6,
@@ -78,11 +253,16 @@
       "year": 2018,
       "rating": 7.9,
       "country": "USA",
-      "genre": ["drama", "series", "thriller"],
+      "genre": [
+        "drama",
+        "series",
+        "thriller"
+      ],
       "runtime": 43,
       "caption": "Explores the high-pressure experiences of the first responders who are thrust into the most frightening, shocking, and heart-stopping situations.",
       "trailer": "https://www.youtube.com/embed/sI_M0OhCqhQ",
-      "poster": "https://gidonline.io/img/f48da2cf8_200x300.jpg"
+      "poster": "http://192.168.0.229:3303/assets/posters/large/9-1-1.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/9-1-1.jpg"
     },
     {
       "id": 7,
@@ -90,11 +270,16 @@
       "year": 2021,
       "rating": 6.3,
       "country": "USA",
-      "genre": ["thriller", "comedy", "crime"],
+      "genre": [
+        "thriller",
+        "comedy",
+        "crime"
+      ],
       "runtime": 115,
       "caption": "An Interpol agent successfully tracks down the world's most wanted art thief with help from a rival thief. But nothing is as it seems as a series of double-crosses ensues.",
       "trailer": "https://www.youtube.com/embed/Pj0wz7zu3Ms",
-      "poster": "https://gidonline.io/img/f2fe73a7d_200x300.jpg"
+      "poster": "http://192.168.0.229:3303/assets/posters/large/red-notice.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/red-notice.jpg"
     },
     {
       "id": 8,
@@ -102,11 +287,16 @@
       "year": 2021,
       "rating": 8.2,
       "country": "USA",
-      "genre": ["thriller", "adventures", "fantasy"],
+      "genre": [
+        "thriller",
+        "adventures",
+        "fantasy"
+      ],
       "runtime": 148,
       "caption": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
       "trailer": "https://www.youtube.com/embed/JfVOs4VSpmA",
-      "poster": "https://gidonline.io/img/81f2c04fa_200x300.jpg"
+      "poster": "http://192.168.0.229:3303/assets/posters/large/spider-men-no-way-home.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/spider-men-no-way-home.jpg"
     },
     {
       "id": 9,
@@ -114,11 +304,16 @@
       "year": 2022,
       "rating": 6.5,
       "country": "USA",
-      "genre": ["drama", "comedy", "adventures"],
+      "genre": [
+        "drama",
+        "comedy",
+        "adventures"
+      ],
       "runtime": 101,
       "caption": "Two former Army Rangers are paired against their will on the road trip of a lifetime. Briggs (Channing Tatum) and Lulu (a Belgian Malinois) race down the Pacific Coast to get to a fellow soldier's funeral on time.",
       "trailer": "https://www.youtube.com/embed/V4tAtp-TyzQ",
-      "poster": "https://gidonline.io/img/8a131b4b8_200x300.jpg"
+      "poster": "http://192.168.0.229:3303/assets/posters/large/dog.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/dog.jpg"
     },
     {
       "id": 10,
@@ -126,11 +321,16 @@
       "year": 2014,
       "rating": 8.7,
       "country": "UK, USA",
-      "genre": ["drama", "adventures", "fantasy"],
+      "genre": [
+        "drama",
+        "adventures",
+        "fantasy"
+      ],
       "runtime": 169,
       "caption": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
       "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E",
-      "poster": "https://gidonline.io/img/7805537c0_200x300.jpg"
+      "cover": "http://192.168.0.229:3303/assets/images/large/interstellar.jpg",
+      "poster": "http://192.168.0.229:3303/assets/posters/large/interstellar.jpg"
     },
     {
       "id": 11,
@@ -138,11 +338,14 @@
       "year": 2022,
       "rating": 3.6,
       "country": "USA",
-      "genre": ["thriller"],
+      "genre": [
+        "thriller"
+      ],
       "runtime": 96,
       "caption": "While on wire room duty, a federal agent listens in as the target is attacked in his home by a hit squad. Without burning the wire, he must protect the investigation and the target's life from the confines of a room fifty miles away.",
       "trailer": "https://www.youtube.com/embed/dJtTvg0X5k8",
-      "poster": "https://gidonline.io/img/930ff9c5c_200x300.jpg"
+      "poster": "http://192.168.0.229:3303/assets/posters/large/wire-room.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/wire-room.jpg"
     },
     {
       "id": 12,
@@ -150,11 +353,220 @@
       "year": 2004,
       "rating": 8.7,
       "country": "USA",
-      "genre": ["detective", "drama", "series"],
+      "genre": [
+        "detective",
+        "drama",
+        "series"
+      ],
       "runtime": 43,
       "caption": "An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.",
       "trailer": "https://www.youtube.com/embed/_0mYMuGrDxw",
-      "poster": "https://gidonline.io/img/76317fd4d_200x300.jpg"
+      "poster": "http://192.168.0.229:3303/assets/posters/large/dr-house.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/dr-house.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Peaky Blinders",
+      "year": 2013,
+      "rating": 8.8,
+      "country": "UK",
+      "genre": [
+        "drama",
+        "crime",
+        "series"
+      ],
+      "runtime": 60,
+      "caption": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+      "trailer": "https://www.youtube.com/embed/oVzVdvGIC7U",
+      "poster": "http://192.168.0.229:3303/assets/posters/large/peaky-blinders.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/peaky-blinders.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Sherlock",
+      "year": 2010,
+      "rating": 9.1,
+      "country": "UK",
+      "genre": [
+        "detective",
+        "series"
+      ],
+      "runtime": 88,
+      "caption": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a \"high-functioning sociopath\" in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquaintance.",
+      "trailer": "https://www.youtube.com/embed/xK7S9mrFWL4",
+      "poster": "http://192.168.0.229:3303/assets/posters/large/sherlock.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/sherlock.jpg"
+    },
+    {
+      "id": 15,
+      "name": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "rating": 9,
+      "country": "New Zealand, USA, Germany",
+      "genre": [
+        "thriller",
+        "fantasy",
+        "adventures"
+      ],
+      "runtime": 201,
+      "caption": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "trailer": "https://www.youtube.com/embed/r5X-hFf6Bwo",
+      "poster": "http://192.168.0.229:3303/assets/posters/large/lord-of-rings-return-king.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/lord-of-rings-return-king.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Harry Potter and the Deathly Hallows",
+      "year": 2010,
+      "rating": 7.7,
+      "country": "New Zealand, USA, Germany",
+      "genre": [
+        "detective",
+        "fantasy",
+        "adventures"
+      ],
+      "runtime": 146,
+      "caption": "As Harry, Ron and Hermione race against time and evil to destroy the Horcruxes, they uncover the existence of the three most powerful objects in the wizarding world: the Deathly Hallows.",
+      "trailer": "https://www.youtube.com/embed/MxqsmsA8y5k",
+      "poster": "http://192.168.0.229:3303/assets/posters/large/harry-potter-and-deathly-hallows-1.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/harry-potter-and-deathly-hallows-1.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Star Wars: Episode VII",
+      "year": 2015,
+      "rating": 7.8,
+      "country": "USA",
+      "genre": [
+        "thriller",
+        "fantasy",
+        "adventures"
+      ],
+      "runtime": 138,
+      "caption": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
+      "trailer": "https://www.youtube.com/embed/sGbxmsDFVnE",
+      "poster": "http://192.168.0.229:3303/assets/posters/large/star-wars-6.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/star-wars-6.jpg"
+    },
+    {
+      "id": 18,
+      "name": "The Matrix",
+      "year": 1999,
+      "rating": 8.7,
+      "country": "USA, Australia",
+      "genre": [
+        "thriller",
+        "fantasy",
+        "adventures"
+      ],
+      "runtime": 136,
+      "caption": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "trailer": "https://www.youtube.com/embed/m8e-FF8MsqU",
+      "poster": "http://192.168.0.229:3303/assets/posters/large/the-matrix.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/the-matrix.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Avatar: The Way of Water",
+      "year": 2022,
+      "rating": 7.6,
+      "country": "USA",
+      "genre": [
+        "thriller",
+        "drama",
+        "fantasy",
+        "adventures"
+      ],
+      "runtime": 192,
+      "caption": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+      "trailer": "https://www.youtube.com/embed/d9MyW72ELq0",
+      "poster": "http://192.168.0.229:3303/assets/posters/large/avatar-2022.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/avatar-2022.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Dune: Part One",
+      "year": 2021,
+      "rating": 8,
+      "country": "USA, Canada, Hungary",
+      "genre": [
+        "thriller",
+        "drama",
+        "fantasy",
+        "adventures"
+      ],
+      "runtime": 155,
+      "caption": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
+      "trailer": "https://www.youtube.com/embed/8g18jFHCLXk",
+      "poster": "http://192.168.0.229:3303/assets/posters/large/dune-2021.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/dune-2021.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Dune: Part Two",
+      "year": 2023,
+      "rating": 0,
+      "country": "USA, Canada, Hungary",
+      "genre": [
+        "action",
+        "drama",
+        "adventures"
+      ],
+      "runtime": 0,
+      "caption": "A boy becomes the Messiah of nomads on a desert planet that has giant worms that protect a commodity called Spice. Spice changes people into travelers, mystics and madmen. What price will he pay to become the new ruler of their universe?",
+      "trailer": "https://www.youtube.com/embed/Way9Dexny3w",
+      "poster": "http://192.168.0.229:3303/assets/posters/large/dune-2023.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/dune-2023.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Creed III",
+      "year": 2023,
+      "rating": 6.8,
+      "country": "USA",
+      "genre": [
+        "drama",
+        "sport"
+      ],
+      "runtime": 116,
+      "caption": "Adonis has been thriving in both his career and family life, but when a childhood friend and former boxing prodigy resurfaces, the face-off is more than just a fight.",
+      "trailer": "https://www.youtube.com/embed/AHmCH7iB_IM",
+      "poster": "http://192.168.0.229:3303/assets/posters/large/creed-3-2023.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/creed-3-2023.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023,
+      "rating": 6.8,
+      "country": "USA",
+      "genre": [
+        "action",
+        "adventures",
+        "comedy"
+      ],
+      "runtime": 124,
+      "caption": "Scott Lang and Hope Van Dyne are dragged into the Quantum Realm, along with Hope's parents and Scott's daughter Cassie. Together they must find a way to escape, but what secrets is Hope's mother hiding? And who is the mysterious Kang?",
+      "trailer": "https://www.youtube.com/embed/ZlNFpri-Y40",
+      "poster": "http://192.168.0.229:3303/assets/posters/large/ant-man-2023.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/ant-man-2023.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Through My Window",
+      "year": 2022,
+      "rating": 5.5,
+      "country": "Spain",
+      "genre": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "runtime": 116,
+      "caption": "Raquel's longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family's objections.",
+      "trailer": "https://www.youtube.com/embed/_wJTO_d_AJo",
+      "poster": "http://192.168.0.229:3303/assets/posters/large/through-my-window.jpg",
+      "cover": "http://192.168.0.229:3303/assets/images/large/through-my-window.jpg"
     }
   ]
 }
